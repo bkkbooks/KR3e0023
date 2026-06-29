@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0023/WYG/v1/juan/2
+seq: 2
+front:
+  text: 旅舍備要方考證第六頁後八行䐴腰謹案玉篇䐴腰痛也今人訛作
+  hash: sha256:4c31fdcc4961a70646366dbfcffcd27a4fb35efb6035754239aea7b60e2434e6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0023_WYG_002-1a, image: WYG0738/WYG0738-0450c.png}
+body:
+  text: 旡腰永樂大典或作暨腰皆誤今校正第八頁後三行細塵眯目原本脫塵字謹增十五頁前二行金石等藥原本脫石字謹増
+  hash: sha256:e0dd89d54d1c5ca2ff330b05835af2f3309b8bf6508c8c4894503ddbbf2b0114
+metadata:
+  title: 旅舍備要方
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:04:43.730334'
+  juan_title: 考證
+  source:
+    repository: kanripo
+    path: KR3e0023/KR3e0023_002.txt
+hash: sha256:117a1bb0139664b253dfb14a473a67652f34cf995194062261be1d36fb14aa6d

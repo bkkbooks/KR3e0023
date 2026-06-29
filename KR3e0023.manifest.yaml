@@ -1,0 +1,84 @@
+canonical_identifier: bkk:krp/KR3e0023/v1
+canonical_location: https://kanripo.org/bkk/KR3e0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 旅舍備要方
+  date: '2015-08-24 23:04:43.730334'
+  source:
+    repository: kanripo
+    path: KR3e0023
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0023_000.yaml, hash: 'sha256:023bf4acb47b1a65d7c199ad8fae6b48514acd18b647740f472b914c32daa194'}
+  - {seq: 1, filename: KR3e0023_001.yaml, hash: 'sha256:49cf9fc5228bebebbd63e03dcb5a31cef0312e066afb6368554e8ab9329e14cf'}
+  - {seq: 2, filename: KR3e0023_002.yaml, hash: 'sha256:8407a143bc868144c18bba99d0350043d7d28c98dbd856f52a2b4aa2e7a1453a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0023_000.markers.yaml, hash: 'sha256:0e1c231ecc9eed5b07b8192667e470a4b3d47a9067d40699fb08a55adc6444ba'}
+  - {seq: 1, role: markers, filename: assets/KR3e0023_001.markers.yaml, hash: 'sha256:4c7c2f85dcd95c20e2e710223f55bb632a4861cddb0b2a29d7cfe1fea86e3952'}
+  - {seq: 2, role: markers, filename: assets/KR3e0023_002.markers.yaml, hash: 'sha256:eafb0cb886f99d40a4c6218032ceed8a1fd34df9ed599a4955b75a38f6ec5031'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0023_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 449
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0023_WYG_000-3a
+    span:
+    - body
+    - 449
+    - 610
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0023_WYG_000-4a
+    span:
+    - body
+    - 610
+    - 784
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0023_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 3934
+  label: 旅舍備要方
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0023_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 49
+  label: 考證
+  type: section
+  level: 1
+hash: sha256:7ef4c0385a36d932b27a94597f3ec543e7bd9a21132ff10b0379f94808bcd5cb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
