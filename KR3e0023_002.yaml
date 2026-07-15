@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3e0023_WYG_002-1a, image: WYG0738/WYG0738-0450c.png}
 body:
-  text: 旡腰永樂大典或作暨腰皆誤今校正第八頁後三行細塵眯目原本脫塵字謹增十五頁前二行金石等藥原本脫石字謹増
-  hash: sha256:e0dd89d54d1c5ca2ff330b05835af2f3309b8bf6508c8c4894503ddbbf2b0114
+  text: 旡腰永樂大典或作暨腰皆誤今校正第八頁後三行細塵眯目原本脫塵字謹增十五頁前二行金石等藥原本脫石字謹增
+  hash: sha256:28aa8ed9efef2e29bb6e4a1c91635cf9f2f8dac83f6d21f6b65e80cca85fa1ba
 metadata:
   title: 旅舍備要方
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3e0023/KR3e0023_002.txt
-hash: sha256:11d24d55365686e280f6709e5bc810f1fcb371c758797c7c2b1c6236e34f2ec7
+hash: sha256:8407a143bc868144c18bba99d0350043d7d28c98dbd856f52a2b4aa2e7a1453a
